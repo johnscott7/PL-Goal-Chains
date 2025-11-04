@@ -34,7 +34,6 @@ This analysis supports:
 - tactical evaluation of defensive vulnerabilities and attacking approaches, and  
 - fan engagement through clear visualizations of tactical trends and patterns of play used by each club.
 
---
 
 ## 3. Data Sources
 ### Primary Dataset
@@ -43,7 +42,6 @@ This analysis supports:
 ### Related Datasets
 All supporting data is manually generated through Premier League match broadcasts.
 
----
 
 ## 4. Project Structure
 ```bash
@@ -55,8 +53,8 @@ docs/           # documentation and static assests
 ```
 
 ## 5. Methodology
-- Detailed methodology to be documented as the analysis progresses.
+- Detailed methodology in progress.
 
 
 ## 6. Results and Insights
-- To be completed at the conclusion of the analysis
+- Results and Insights to come.
