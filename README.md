@@ -5,11 +5,11 @@
   <br>
 </h1>
 
-# Project Tile: How Premier League Clubs Concede Chances: An Analysis and Visualization of the event chains leading up to the moments teams concede high expected goal shots to their opponents
+# How Premier League Clubs Concede Chances: Analyzing and Visualizing xG-Chains
 
 ## Table of Contents
-- [1. Business Issue](#1-business-issue)
-- [2. Business Use Case](#2-business-use-case)
+- [1. Project Motivation](#1-project-motivation)
+- [2. Project Goals](#2-project-goals)
 - [3. Data Sources](#3-data-sources)
 - [4. Project Structure](#4-project-structure)
 - [5. Methodology](#5-methodology)
@@ -29,7 +29,7 @@ This analysis includes event types (ground passes, aerial passes, dribbles, inte
 The **primary dataset** comes from **Understat**, supplemented with user-tagged data collected from match broadcasts.
 
 --
-##  2. Business Use Case
+##  2. Project Goals
 This analysis supports:
 - tactical evaluation of defensive vulnerabilities and attacking approaches, and  
 - fan engagement through clear visualizations of tactical trends and patterns of play used by each club.
